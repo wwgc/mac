@@ -1,1 +1,3 @@
 # mac
+
+Display monitor messages.
